@@ -11,6 +11,6 @@ Everyone needs a website to express themselves so i made free website templates.
 Have Fun. 😄
 
 
-### Add your template
+# Add your template
 
 If you have a template you want to be on this repo create a PR
