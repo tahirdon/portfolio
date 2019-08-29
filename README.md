@@ -4,7 +4,7 @@
 
 ### Free to use Portfolio Templates
 
-See them in action [here](https://imfunniee.github.io/fimbo)
+See them in action [here](https://www.youtube.com/watch?v=5O9q0NB2HL0)
 
 Everyone needs a website to express themselves so i made free website templates. All you need to do is download them and customize them according to your need.
 
